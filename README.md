@@ -1,7 +1,7 @@
 
 # Job Scraper
 
-A small Python script that scrapes job listings from the 'https://realpython.github.io/fake-jobs/' practice site and saves them to a CSV file.
+A small Python script that scrapes job listings from the ['https://realpython.github.io/fake-jobs/'](https://roadmap.sh/projects/job-listings-scraper) practice site and saves them to a CSV file.
 
 ## What it does
 
